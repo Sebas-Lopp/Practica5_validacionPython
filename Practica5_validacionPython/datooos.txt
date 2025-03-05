@@ -1,0 +1,14 @@
+Nombres: Carlos Sebastian
+Apellidos: Lopez Diaz
+Edad: 19 anos
+Estatura: 1.71 cm
+Telefono: 9614292822
+Genero: Hombre
+
+Nombres: Carlos Sebastian
+Apellidos: Lopez Diaz
+Edad: 19 anos
+Estatura: 1.71 cm
+Telefono: 9614292822
+Genero: Hombre
+
